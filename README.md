@@ -1,4 +1,3 @@
-![logo](https://img.freepik.com/free-vector/blue-wavy-forms-transparent-background_1035-6744.jpg?t=st=1741531739~exp=1741535339~hmac=cdc3eb6bca99ad83721d50072cfb437e965bae2cfea1727f93e60ca03ee9ff4b&w=740)
 <h1 align="center">Hi 👋, I'm Yash</h1>
 <h3 align="center">A passionate Web Developer & UI/UX Designer from India</h3>
 
